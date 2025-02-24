@@ -80,7 +80,6 @@ nav {
     display: flex;
     flex-direction: column;
     color: #d5c7bc;
-    background-color: #810808;
     padding-bottom: 0.7rem;
     padding-top: 0.3rem;
   }
@@ -154,7 +153,7 @@ nav {
   }
   .about-text {
     font-size: 1.3rem;
-    width: 70vw;
+    width: 100%;
   }
 }
 .paintings-container {
@@ -287,11 +286,11 @@ p {
     background-image: url("../assets/12.jpg");
   }
   .all {
-    padding: 0;
+    padding: 0 1rem;
     gap: 1.5rem;
   }
   p {
-    width: 80%;
+    width: 100%;
   }
 }
 
