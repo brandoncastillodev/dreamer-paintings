@@ -34,6 +34,8 @@ function Home() {
       >
         {lang ? <>Conseguir NFTs</> : <>Get NFTs</>}
       </a>
+      {lang ? <p>Hecho con ❤️ por Brandon 🏰</p> : <p class="firma">Made with ❤️ by Brandon 🏰</p>}
+      
     </div>
   );
 }
