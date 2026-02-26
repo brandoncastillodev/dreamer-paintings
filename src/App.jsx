@@ -3,7 +3,7 @@ import { Analytics } from "@vercel/analytics/react";
 import Navbar from "./Components/Navbar";
 import AppRoutes from "./Components/AppRoutes";
 import Hidden from "./Components/Hidden";
-import "./Styles/App.css";
+import "./styles/app.css";
 
 function App() {
   const [hidden, setHidden] = useState(false);

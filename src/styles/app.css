@@ -230,6 +230,10 @@ span {
   box-sizing: border-box;
 }
 
+html {
+  font-size: 90%;
+}
+
 body {
   font-family: "Lato";
 }
@@ -294,4 +298,4 @@ p {
   }
 }
 
-/*# sourceMappingURL=App.css.map */
+/*# sourceMappingURL=app.css.map */
