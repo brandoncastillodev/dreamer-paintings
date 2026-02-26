@@ -1,6 +1,6 @@
 Dreamer Paintings
 
-![image](https://res.cloudinary.com/daynclfo8/image/upload/v1732626769/dreamer.png)
+![image](https://res.cloudinary.com/daynclfo8/image/upload/v1772149112/2026-02-26-20-34-08_svbdtf.png)
 
 [Demo](https://www.youtube.com/watch?v=onv0uQ7Y_1I)
 
