@@ -1,16 +1,15 @@
-import React from "react";
 import ModalImage from "react-modal-image";
 
 function Paint({ painting, tiny }) {
   return (
     <div className="painting">
-      <ModalImage
-        small={tiny}
-        hideDownload={true}
-        hideZoom={true}
-        large={painting}
-        alt="Dreamer Paintings"
-      />
+      <a href={`https://dreamer-paintings.vercel.app/${painting}`} target="_blank" rel="noopener noreferrer">
+       <img
+          src={tiny}
+          alt="Dreamer Paintings"
+          loading="lazy"
+        />
+      </a>
     </div>
   );
 }

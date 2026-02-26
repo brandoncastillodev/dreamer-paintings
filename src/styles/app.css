@@ -170,6 +170,8 @@ nav {
   aspect-ratio: 1/1.414;
 }
 .painting img {
+  width: 100%;
+  height: 100%;
   display: block;
 }
 
@@ -177,6 +179,11 @@ nav {
   .paintings-container {
     width: 90%;
     grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  }
+  .painting img {
+    width: 100%;
+    height: 100%;
+    display: block;
   }
 }
 .schedule-image {
